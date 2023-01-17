@@ -1,0 +1,13 @@
+[
+    {
+        "axiome": "+++++++b*c",
+        "regle": [
+            "a=aa",
+            "b=bb",
+            "c=a[+c][--c]ac"
+        ],
+        "angle": "12",
+        "niveau": "8",
+        "taille": "6"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "axiome": "+++a",
+        "regle": [
+            "a=a[-a][+a]a"
+        ],
+        "angle": "30",
+        "niveau": "5",
+        "taille": "10"
+    }
+]

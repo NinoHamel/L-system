@@ -1,0 +1,12 @@
+[
+    {
+        "axiome": "a-c-c",
+        "regle": [
+            "a=a-c+a+c-a",
+            "c=cc"
+        ],
+        "angle": "120",
+        "niveau": "8",
+        "taille": "5"
+    }
+]
